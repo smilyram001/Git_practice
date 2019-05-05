@@ -1,4 +1,5 @@
 #!/bin/bash
+echo -e "MY FIRST WHILE SCRIPT"
 valid=true
 count=1
 while [ $valid ]
